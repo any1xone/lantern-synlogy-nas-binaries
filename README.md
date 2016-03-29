@@ -23,4 +23,4 @@ export https_proxy=https://<your NAS IP>:8787
 e.g. : export http_proxy=http://192.168.1.123:8787
 
 ## Download list
-[2.1.2-20160329]()lantern-synology_nas_ds212j-2.1.2-20160329.tgz
+[2.1.2-20160329](https://github.com/any1xone/lantern-synlogy-nas-binaries/archive/ds212j-2.1.2-20160329.tar.gz) lantern-synology_nas_ds212j-2.1.2-20160329.tgz
